@@ -1,2 +1,2 @@
-# SampleGit
+# SampleGitコンフリクトテスト
 これはGitのサンプルプロジェクトですね。
